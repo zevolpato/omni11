@@ -12,7 +12,7 @@ export default function Logon(){
             <section className="form">  
             <img src={logImg} alt="Be the Hero"/>
              <form>
-                <h1>Faça seu logon</h1>
+                <h1>Faça seu logon </h1>
                 <input placeholder="Sua Id"/>
                 <button className="button" type="submit">Entrar</button>  
 
